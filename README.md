@@ -15,7 +15,10 @@ based on 2 models:
 
 ### Note on dependencies:
 
-- Images are by default pulled from: [Here]("https://liangfgithub.github.io/MovieImages/")
+- Images are by default pulled from: [https://liangfgithub.github.io/MovieImages/](https://liangfgithub.github.io/)
+
+For instance: [image](https://liangfgithub.github.io/MovieImages/1.jpg)
+
 - Data is pulled locally from MovieData folder. Ratings are loaded from a zip 
 to optimize disk usage.
 
