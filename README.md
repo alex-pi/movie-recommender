@@ -40,6 +40,6 @@ Article 19 (December 2015), 19 pages. DOI=http://dx.doi.org/10.1145/2827872
 
 ## ACKNOWLEDGEMENTS
 
-Thanks to @stefanwilhelm for maintain [ShinyRatingInput](https://github.com/stefanwilhelm/ShinyRatingInput)
+Thanks to @stefanwilhelm for maintaining [ShinyRatingInput](https://github.com/stefanwilhelm/ShinyRatingInput)
 
 As well to @pspachtholz for putting together a good [demo](https://github.com/pspachtholz/BookRecommender) 
