@@ -13,6 +13,8 @@ based on 2 models:
 1. You can install all dependencies using the script ```install_dependencies.R```.
 2. Execute ```movies_app/server.R```
 
+This application has been tested in R 4.2.2
+
 ### Note on dependencies:
 
 - Images are by default pulled from: [https://liangfgithub.github.io/MovieImages/](https://liangfgithub.github.io/)

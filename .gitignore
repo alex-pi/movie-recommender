@@ -3,3 +3,5 @@ rsconnect
 MovieImages
 www/MovieImages
 .Rproj.user
+.RData
+.Rhistory
